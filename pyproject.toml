@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "streamlit-playground"
+name = "streamlit-zeroshot-classifier"
 version = "0.1.0"
 description = ""
 authors = ["Arda Can Aras <ardaaras99@gmail.com>"]
